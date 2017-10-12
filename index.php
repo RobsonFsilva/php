@@ -12,7 +12,11 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+<<<<<<< HEAD
         echo "teste novo php em desktop";
+=======
+        echo "teste novo php";
+>>>>>>> 96fa79073cd09dc39e9043ddc011214a50f826c3
         ?>
     </body>
 </html>
